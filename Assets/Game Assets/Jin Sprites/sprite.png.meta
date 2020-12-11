@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: edbba1eb7f56145d3b8f6ae4e117d1b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4298345892085953899
+    second: head_climb
+  - first:
+      213: 5696770936715017764
+    second: head
+  - first:
+      213: 7468057293271108204
+    second: body
+  - first:
+      213: -2045241179596208353
+    second: arm_low_right
+  - first:
+      213: 7632504960321735611
+    second: hand_right
+  - first:
+      213: 479147607336132558
+    second: hand_right
+  - first:
+      213: -4958638880730582307
+    second: hand_left
+  - first:
+      213: -207807116604466329
+    second: arm_low_left
+  - first:
+      213: 8459280632077578265
+    second: arm_high_left
+  - first:
+      213: 5038766781204641526
+    second: face
+  - first:
+      213: -8242144517538379499
+    second: hip
+  - first:
+      213: 114527837827798065
+    second: hand_left_climb
+  - first:
+      213: -8433814493453978470
+    second: leg_top_right
+  - first:
+      213: -2770658070329147048
+    second: leg_low_right
+  - first:
+      213: -7560736901053414937
+    second: leg_low_left
+  - first:
+      213: 3921851073719911870
+    second: leg_top_left
+  - first:
+      213: -3885413004597904589
+    second: leg_low_right_climb
+  - first:
+      213: 5660015673385862980
+    second: leg_low_left_climb
+  - first:
+      213: 5253202027524466120
+    second: hat
+  - first:
+      213: -2847520578233195711
+    second: hat_crowch
+  - first:
+      213: -6346628276510100853
+    second: hat_climb
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: head_climb
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 474
+        width: 162
+        height: 160
+      alignment: 9
+      pivot: {x: 0.50124973, y: 0.23810196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a057c4f253954c0800000000000000
+      internalID: -4298345892085953899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 181
+        height: 200
+      alignment: 9
+      pivot: {x: 0.45750058, y: 0.11841324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42efaa1fbfefe0f40800000000000000
+      internalID: 5696770936715017764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3
+        width: 115
+        height: 205
+      alignment: 9
+      pivot: {x: 0.4929594, y: 0.29657927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a80bf6a8ed3a760800000000000000
+      internalID: 7468057293271108204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_low_right
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 252
+        width: 45
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.897701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17ca2abbf7dd93e0800000000000000
+      internalID: -2045241179596208353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_high_right
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 379
+        width: 45
+        height: 113
+      alignment: 9
+      pivot: {x: 0.48721176, y: 0.8921039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb426a92da1ce960800000000000000
+      internalID: 7632504960321735611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_right
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 185
+        width: 58
+        height: 59
+      alignment: 9
+      pivot: {x: 0.45982623, y: 0.8712438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf9f32d53646a600800000000000000
+      internalID: 479147607336132558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_left
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 185
+        width: 57
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5302847, y: 0.836477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2fc90c5306f2bb0800000000000000
+      internalID: -4958638880730582307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_low_left
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 252
+        width: 44
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5065391, y: 0.8946501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b1ef84788bd1df0800000000000000
+      internalID: -207807116604466329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_high_left
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 379
+        width: 44
+        height: 111
+      alignment: 9
+      pivot: {x: 0.4999993, y: 0.90435296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910735a6ae6656570800000000000000
+      internalID: 8459280632077578265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: face
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 559
+        width: 90
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6bdb3e0bb4de540800000000000000
+      internalID: 5038766781204641526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hip
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 545
+        width: 108
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.84353775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51901b4ea350e9d80800000000000000
+      internalID: -8242144517538379499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_left_climb
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 34
+        width: 57
+        height: 58
+      alignment: 9
+      pivot: {x: 0.579017, y: 0.8311774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1349e923672e69100800000000000000
+      internalID: 114527837827798065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg_top_right
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 380
+        width: 66
+        height: 129
+      alignment: 9
+      pivot: {x: 0.49326995, y: 0.9269956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a947228076215fa80800000000000000
+      internalID: -8433814493453978470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg_low_right
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 237
+        width: 95
+        height: 130
+      alignment: 9
+      pivot: {x: 0.46516016, y: 0.9209367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85146f32a25ac89d0800000000000000
+      internalID: -2770658070329147048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg_low_left
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 237
+        width: 95
+        height: 130
+      alignment: 9
+      pivot: {x: 0.47458687, y: 0.92001015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e10684d8ddd21790800000000000000
+      internalID: -7560736901053414937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg_top_left
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 380
+        width: 67
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5065863, y: 0.91222626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb54f0fc5c63d6630800000000000000
+      internalID: 3921851073719911870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg_low_right_climb
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 4
+        width: 81
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4999996, y: 0.90338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b3247457d341ac0800000000000000
+      internalID: -3885413004597904589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg_low_left_climb
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 4
+        width: 82
+        height: 129
+      alignment: 9
+      pivot: {x: 0.50807226, y: 0.89170057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447ce43544a6c8e40800000000000000
+      internalID: 5660015673385862980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 468
+        width: 287
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5173644, y: 0.37734905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c525ff496f17e840800000000000000
+      internalID: 5253202027524466120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_crowch
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 251
+        width: 287
+        height: 176
+      alignment: 9
+      pivot: {x: 0.49565905, y: 0.26639834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143abc3fe139b78d0800000000000000
+      internalID: -2847520578233195711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_climb
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 27
+        width: 294
+        height: 141
+      alignment: 9
+      pivot: {x: 0.50179803, y: 0.4231476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b827a29553f3ce7a0800000000000000
+      internalID: -6346628276510100853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

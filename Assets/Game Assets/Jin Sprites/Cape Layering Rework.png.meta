@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: ec3d672568d8249c59622ff069df35ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7869634059872577198
+    second: Idle Whole
+  - first:
+      213: -6392255011969315398
+    second: Cast Whole
+  - first:
+      213: 6998367309389361687
+    second: Crowch Whole
+  - first:
+      213: 8748537559593719718
+    second: Jump Whole
+  - first:
+      213: -1687295413076676650
+    second: Climb Whole
+  - first:
+      213: -6226125375739867567
+    second: Idle BG
+  - first:
+      213: 6021967139576259197
+    second: Cast BG
+  - first:
+      213: -8731111343562485463
+    second: Crowch BG
+  - first:
+      213: 7453694812217803501
+    second: Jump BG
+  - first:
+      213: 1417672718474603471
+    second: Cape Layering Rework_9
+  - first:
+      213: 3009320103098288669
+    second: Idle Hood Right
+  - first:
+      213: -7283930159723069770
+    second: Idle Cape Left
+  - first:
+      213: -48919460938154032
+    second: Cast Hood Right
+  - first:
+      213: 4753500210930687946
+    second: Cast Hood Left
+  - first:
+      213: -6619191514745056866
+    second: Crowch Hood Left
+  - first:
+      213: 7133353249263442785
+    second: Jump Cape Right
+  - first:
+      213: -8304050796934012822
+    second: Jump Cape Left
+  - first:
+      213: -578421330396724345
+    second: Cape Layering Rework_17
+  - first:
+      213: -1189987416622402454
+    second: Crowch Cape Right
+  - first:
+      213: -6403613529620791499
+    second: Cape Layering Rework_19
+  - first:
+      213: -3540963031631915923
+    second: Crowch Chest Deco
+  - first:
+      213: 8679616832543312944
+    second: Idle Cape Right
+  - first:
+      213: -8269528583742045815
+    second: Idle Hood Left
+  - first:
+      213: -4442881384752451894
+    second: Crowch Hood Right
+  - first:
+      213: 8305372094438020327
+    second: Cape Layering Rework_24
+  - first:
+      213: -2395784875280916776
+    second: Cast Cape
+  - first:
+      213: 985644368652692241
+    second: Crowch Cape Left
+  - first:
+      213: -9039677102046582534
+    second: Jump Hood Right
+  - first:
+      213: 1034959463701075896
+    second: Jump Chest Deco
+  - first:
+      213: 664658403483727475
+    second: Cape Layering Rework_29
+  - first:
+      213: 8426942184659213976
+    second: Idle Chest Deco
+  - first:
+      213: -3308852359895740535
+    second: Cape Layering Rework_31
+  - first:
+      213: 8252834613748519124
+    second: Jump Hood Left
+  - first:
+      213: -1988812773774061759
+    second: Idle Whole
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle Whole
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1339
+        width: 252
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6822148, y: 0.75642353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6250b7b7e863d60800000000000000
+      internalID: 7869634059872577198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cast Whole
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1356
+        width: 303
+        height: 406
+      alignment: 9
+      pivot: {x: 0.69327456, y: 0.7622582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdcbd92fe52a47a0800000000000000
+      internalID: -6392255011969315398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowch Whole
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1401
+        width: 292
+        height: 351
+      alignment: 9
+      pivot: {x: 0.6686489, y: 0.7502661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712fbdb2df13f1160800000000000000
+      internalID: 6998367309389361687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Whole
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1355
+        width: 299
+        height: 395
+      alignment: 9
+      pivot: {x: 0.7425994, y: 0.85379934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a71fb70f8c096970800000000000000
+      internalID: 8748537559593719718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climb Whole
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1339
+        width: 258
+        height: 411
+      alignment: 9
+      pivot: {x: 0.49999952, y: 0.8432644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df2b60f2c58598e0800000000000000
+      internalID: -1687295413076676650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle BG
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 934
+        width: 252
+        height: 398
+      alignment: 9
+      pivot: {x: 0.62668604, y: 0.7312027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ecafb45fb5899a0800000000000000
+      internalID: -6226125375739867567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cast BG
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1130
+        width: 222
+        height: 189
+      alignment: 9
+      pivot: {x: 0.61597145, y: 0.57265055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72a48b2533529350800000000000000
+      internalID: 6021967139576259197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowch BG
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 992
+        width: 287
+        height: 317
+      alignment: 9
+      pivot: {x: 0.6670413, y: 0.75610316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92113901e7cd4d680800000000000000
+      internalID: -8731111343562485463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump BG
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 912
+        width: 285
+        height: 395
+      alignment: 9
+      pivot: {x: 0.7573718, y: 0.8376338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de20a6ab0f7d07760800000000000000
+      internalID: 7453694812217803501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Hood Right
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 822
+        width: 125
+        height: 66
+      alignment: 9
+      pivot: {x: 0.9791457, y: 0.09667876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a8d9090b043c920800000000000000
+      internalID: 3009320103098288669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Cape Left
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 459
+        width: 89
+        height: 373
+      alignment: 9
+      pivot: {x: 0.056892138, y: 0.8675308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beb3f49c184aea90800000000000000
+      internalID: -7283930159723069770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cast Hood Right
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 791
+        width: 132
+        height: 62
+      alignment: 9
+      pivot: {x: 0.9811057, y: 0.057063933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df7d2c6204325ff0800000000000000
+      internalID: -48919460938154032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cast Hood Left
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 806
+        width: 25
+        height: 47
+      alignment: 9
+      pivot: {x: 0.08807129, y: 0.025258165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf9448b143d7f140800000000000000
+      internalID: 4753500210930687946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowch Hood Left
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 818
+        width: 71
+        height: 47
+      alignment: 9
+      pivot: {x: 0.0416234, y: -0.011461623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9157572368e324a0800000000000000
+      internalID: -6619191514745056866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Cape Right
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 477
+        width: 169
+        height: 358
+      alignment: 9
+      pivot: {x: 1.3346056, y: 0.8859493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bd9bf6cf2cef260800000000000000
+      internalID: 7133353249263442785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Cape Left
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 512
+        width: 126
+        height: 313
+      alignment: 9
+      pivot: {x: 0.42771983, y: 0.9877232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60e2f30cc512cc80800000000000000
+      internalID: -8304050796934012822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowch Cape Right
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 514
+        width: 204
+        height: 298
+      alignment: 9
+      pivot: {x: 0.9673662, y: 0.89645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a647909dfb05c7fe0800000000000000
+      internalID: -1189987416622402454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowch Chest Deco
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 696
+        width: 49
+        height: 27
+      alignment: 9
+      pivot: {x: 0.53019124, y: 0.44521528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d641ac032e8fbdec0800000000000000
+      internalID: -3540963031631915923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Cape Right
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 177
+        height: 378
+      alignment: 9
+      pivot: {x: 0.975155, y: 0.8632541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cce3ac581347870800000000000000
+      internalID: 8679616832543312944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Hood Left
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 384
+        width: 50
+        height: 55
+      alignment: 9
+      pivot: {x: 0.034233704, y: 0.03688077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981cd12219bbc3d80800000000000000
+      internalID: -8269528583742045815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowch Hood Right
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 364
+        width: 105
+        height: 52
+      alignment: 9
+      pivot: {x: 0.9817197, y: -0.025786767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace62a28be6b752c0800000000000000
+      internalID: -4442881384752451894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cast Cape
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 25
+        width: 301
+        height: 352
+      alignment: 9
+      pivot: {x: 0.6254495, y: 0.8949614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de90ae695670ced0800000000000000
+      internalID: -2395784875280916776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowch Cape Left
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 82
+        width: 105
+        height: 288
+      alignment: 9
+      pivot: {x: 0.07035784, y: 0.893974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b6864c456bdad00800000000000000
+      internalID: 985644368652692241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Hood Right
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 294
+        width: 94
+        height: 70
+      alignment: 9
+      pivot: {x: 0.9876774, y: 0.18335398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8e748e19d9c8280800000000000000
+      internalID: -9039677102046582534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Chest Deco
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 347
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7d4d6162aec5e00800000000000000
+      internalID: 1034959463701075896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Chest Deco
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 263
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.50506514, y: 0.22784695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89edd53e44382f470800000000000000
+      internalID: 8426942184659213976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Hood Left
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 196
+        width: 61
+        height: 52
+      alignment: 9
+      pivot: {x: 0.07057065, y: 0.18999717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d057861b55f78270800000000000000
+      internalID: 8252834613748519124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
